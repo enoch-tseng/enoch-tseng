@@ -2,6 +2,12 @@
 
 ## I'm Enoch Tseng, an EECS undergraduate at UC Berkeley :)
 
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFBi2S6uLpjeA/profile-displayphoto-shrink_400_400/0/1632630145468?e=1671667200&v=beta&t=NHv4D-ndipsB-68zz5nq-UPMDligXsu5ukyIWv1kChs" alt="Picture of Enoch Tseng"/>
+</p>
+
+---
+
 - 🔎 I'm actively seeking an internship for Summer 2023 
 - 📚 I’m currently studying **Machine Structures** (CS 61C) and **Discrete Math + Probability** (CS 70)
 - 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
