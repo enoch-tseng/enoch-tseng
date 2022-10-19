@@ -3,8 +3,8 @@
 ## I'm Enoch Tseng, an EECS undergraduate at UC Berkeley :)
 
 - 🔎 I'm actively seeking an internship for Summer 2023 
-- 📚 I’m currently studying **machine structures** *(CS 61C)* and **discrete math + probability** *(CS 70)*
-- 🧐 Interested in my past projects? Let me know!
+- 📚 I’m currently studying **Machine Structures** *(CS 61C)* and **Discrete Math + Probability** *(CS 70)*
+- 🧐 Interested in my past projects? Relevant coursework? Prior experiences? Let me know!
   - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/enoch-tseng/), [Handshake](https://app.joinhandshake.com/stu/users/33148613), [my website](https://enoch-tseng.github.io/), or shoot me an email at estseng@berkeley.edu
 
 <!--
