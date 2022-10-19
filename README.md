@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
-This is my GitHub account!
+## I'm Enoch Tseng, an EECS undergraduate at UC Berkeley :)
+
+- 📚 I’m currently studying **machine structures** *(CS 61C)* and **discrete math + probability** *(CS 70)*
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/enoch-tseng/), [Handshake](https://app.joinhandshake.com/stu/users/33148613), or shoot me an email at estseng@berkeley.edu
 
 <!--
 **enoch-tseng/enoch-tseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
