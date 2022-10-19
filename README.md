@@ -5,7 +5,7 @@
 - 🔎 I'm seeking an internship for Summer 2023 
 - 📚 I’m currently studying **machine structures** *(CS 61C)* and **discrete math + probability** *(CS 70)*
 - 🧐 Interested in my past projects? Let me know!
-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/enoch-tseng/), [Handshake](https://app.joinhandshake.com/stu/users/33148613), or shoot me an email at estseng@berkeley.edu
+- 📫 Contact me via [LinkedIn](www.linkedin.com/in/enoch-tseng/), [Handshake](app.joinhandshake.com/stu/users/33148613), [my website](enoch-tseng.github.io) or shoot me an email at estseng@berkeley.edu
 
 <!--
 **enoch-tseng/enoch-tseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
