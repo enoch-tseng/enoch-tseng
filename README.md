@@ -4,7 +4,9 @@
 
 - 🔎 I'm actively seeking an internship for Summer 2023 
 - 📚 I’m currently studying **Machine Structures** (CS 61C) and **Discrete Math + Probability** (CS 70)
-- 🧐 Interested in my past projects? Relevant coursework? Prior experiences? Let me know!
+- 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
+  - 🚀 Relevant projects/contributions include a Scheme interpreter, an Engima cipher, a mini-Git simulator, mobile + web development, AI for miscellaneous games, and more!
+  - 🏰 Most of my work are in private repositories, so please reach out if you want to take a look!
   - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/enoch-tseng/), [Handshake](https://app.joinhandshake.com/stu/users/33148613), [my website](https://enoch-tseng.github.io/), or shoot me an email at estseng@berkeley.edu
 
 <!--
