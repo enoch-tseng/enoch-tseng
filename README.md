@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFBi2S6uLpjeA/profile-displayphoto-shrink_400_400/0/1632630145468?e=1671667200&v=beta&t=NHv4D-ndipsB-68zz5nq-UPMDligXsu5ukyIWv1kChs" alt="Picture of Enoch Tseng" height="auto" width="250" />
+  <img width="50" />
+  <img src="https://pbs.twimg.com/profile_images/971496839055683585/jW1g90Ux_400x400.jpg" alt="EECS" height="auto" width="250" />
 </p>
 
 ---
