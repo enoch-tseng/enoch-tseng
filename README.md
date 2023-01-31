@@ -12,7 +12,7 @@
 ---
 
 - 🔎 I'm actively seeking an internship for Summer 2023!
-- 📚 I’m currently studying **Machine Structures** (CS 61C) and **Discrete Math + Probability** (CS 70)
+- 📚 I’m currently studying **Information Devices + Systems** (EECS 16B) and **Data Science** (Data C8)
 - 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
   - 🚀 Relevant projects/contributions include a **Scheme interpreter**, an **Engima cipher**, a **mini-Git simulator**, **mobile + web development**, **AI for miscellaneous games**, and more!
   - 🏰 Most of my work are in private repositories, so please reach out if you want to take a look!
