@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <img src="Enoch_Headshot.jpg" alt="Picture of Enoch Tseng" height="auto" width="250" />
-  <img src="EECS_Logo.jpg" alt="EECS" height="auto" width="250" />
+  <img src="Enoch_Headshot.jpg" alt="Picture of Enoch Tseng" height="250" width="250" />
+  <img src="EECS_Logo.jpg" alt="EECS" height="250" width="250" />
 </p>
 
 ---
