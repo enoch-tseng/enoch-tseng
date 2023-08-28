@@ -11,10 +11,10 @@
 
 ---
 
-- 🔎 I'm actively seeking an internship for Summer 2023!
-- 📚 I’m currently studying **Information Devices + Systems** (EECS 16B) and **Data Science** (Data C8)
+- 🔎 I'm actively seeking an internship for Summer 2024!
+- 📚 I’m currently studying **Efficient Algorithms and Intractable Problems** (CS 170), **Computer Security** (CS 161), and **Principles and Techniques of Data Science** (Data 100)
 - 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
-  - 🚀 Relevant projects/contributions include a **Scheme interpreter**, an **Engima cipher**, a **mini-Git simulator**, **mobile + web development**, **AI for miscellaneous games**, and more!
+  - 🚀 Relevant projects/contributions include a **Scheme interpreter**, an **Engima cipher**, a **mini-Git simulator**, **mobile + web development**, **web scrapers**, **AI for miscellaneous games**, and more!
   - 🏰 Most of my work are in private repositories, so please reach out if you want to take a look!
   - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/enoch-tseng/), [Handshake](https://app.joinhandshake.com/stu/users/33148613), [my website](https://enoch-tseng.github.io/), or shoot me an email at estseng@berkeley.edu
 
