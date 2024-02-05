@@ -12,7 +12,7 @@
 ---
 
 - 🔎 I'm actively seeking an internship for Summer 2024!
-- 📚 I’m currently studying **Efficient Algorithms and Intractable Problems** (CS 170), **Computer Security** (CS 161), and **Principles and Techniques of Data Science** (Data 100)
+- 📚 I’m currently studying **Database Systems** (CS 186), **Artificial Intelligence** (CS 188), **Extended Reality (VR/AR) Development** (CS 198-80), and **Web App Development** (CS 198-750)
 - 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
   - 🚀 Relevant projects/contributions include a **Scheme interpreter**, an **Engima cipher**, a **mini-Git simulator**, **mobile + web development**, **web scrapers**, **AI for miscellaneous games**, and more!
   - 🏰 Most of my work are in private repositories, so please reach out if you want to take a look!
