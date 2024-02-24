@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-## I'm Enoch Tseng, EECS major + DS minor undergraduate @ UC Berkeley :)
+## I'm Enoch Tseng, an undergraduate majoring in EECS and minoring in DS @ UC Berkeley :)
 
 
 
