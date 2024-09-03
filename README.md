@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-## I'm Enoch Tseng, an undergraduate majoring in EECS and minoring in DS @ UC Berkeley :)
+## I'm Enoch Tseng, an undergraduate majoring in EECS and minoring in DS @ UC Berkeley
 
 
 
@@ -11,8 +11,8 @@
 
 ---
 
-- 👨‍💻 Incoming Software Development Engineering Intern @ Amazon for Summer '24!
-- 📚 I’m currently studying **Database Systems** (CS 186), **Artificial Intelligence** (CS 188), **Extended Reality (VR/AR) Development** (CS 198-80), and **Web App Development** (CS 198-750)
+- 👨‍💻 Software Development Engineering Intern @ Amazon for Summer '24!
+- 📚 I’m currently studying **Internet Architecture** (CS 168), **Machine Learning** (IEOR 142A), and **Data, Environment, and Society** (ER 131)
 - 🧐 Interested in my past projects? Previous coursework? Prior experiences? Let me know!
   - 🚀 Relevant projects/contributions include a **Scheme interpreter**, an **Engima cipher**, a **mini-Git simulator**, **mobile + web development**, **web scrapers**, **AI for various games**, and more!
   - 🏰 Most of my work are in private repositories, so please reach out if you want to take a look!
